@@ -4,7 +4,7 @@ A simple counter app built with **React.js** and **Tailwind CSS**. It demonstrat
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the demo]()
+👉 [Click here to view the demo](https://counter-app-two-virid.vercel.app/)
 
 ## ✨ Features
 
