@@ -4,7 +4,7 @@ A React project that fetches and displays **Seafood meals** using Axios from [Th
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the demo]()
+👉 [Click here to view the demo](https://meals-app-drab.vercel.app/)
 
 ## 🚀 Features
 
